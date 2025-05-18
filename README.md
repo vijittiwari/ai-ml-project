@@ -16,8 +16,8 @@ This project is an end-to-end machine learning application for SMS spam detectio
 🚀 Installation
 
 1. Clone this repository:
-   git clone https://github.com/your-username/sms-spam-detection.git
-   cd sms-spam-detection
+   git clone (https://github.com/vijittiwari/AI-ML-Project.git)
+   cd AI-ML-Project
   
 2. Create a virtual environment (optional but recommended):
    python -m venv env
