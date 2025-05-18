@@ -1,4 +1,4 @@
- SMS Spam Detection using Machine Learning
+ Automated SMS Spam Classifier
 
  📌 Overview
 
